@@ -1,2 +1,2 @@
-# sp_anemi_cf
+# cf
 Aplikasi Sistem Pakar dengan Metode CF
